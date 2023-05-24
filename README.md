@@ -1,2 +1,2 @@
 # projects
-# theme: time-machine
+remote_theme: minima
