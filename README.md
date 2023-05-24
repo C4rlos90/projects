@@ -1,2 +1,2 @@
 # projects
-remote_theme: minima
+theme: minima
